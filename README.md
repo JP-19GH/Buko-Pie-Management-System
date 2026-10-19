@@ -1,7 +1,6 @@
 BUKO PIE MANAGEMENT SYSTEM
 
 DESCRIPTION:
-
 This is a Python-based Buko Pie Inventory Management System that uses an SQLite database to manage ingredients/materials and record Buko Pie orders.
 It helps the user monitor available stocks, update material information, calculate order revenue and profit, review sales records, and export reports
 to a CSV file.
