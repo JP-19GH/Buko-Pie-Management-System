@@ -23,7 +23,7 @@ HOW TO RUN
 IMPORTANT NOTES
 - The current recipe uses 1/15 of each listed material per pie, as in the
   original program. Check that these amounts match your real recipe and units.
-- The current selling price is ₱250 per pie.
+- The current selling price is ₱250 per buko pie.
 - To preserve compatibility with the original code, the orders table's
   total_cost field currently stores profit, not revenue or material cost.
   The report labels explain this. For a more accurate long-term design, the
